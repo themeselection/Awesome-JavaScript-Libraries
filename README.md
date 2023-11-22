@@ -39,7 +39,8 @@ UI Components
   - Search
   - Editor
   - Table
-  - Animation
+
+## UI Components
     
 ### Accordion
 | No | Library and Component Name | Descriptions                   | Framework |
@@ -318,8 +319,8 @@ UI Components
 | 6. | [**Editor.js**](https://editorjs.io/) | A block-styled editor with clean JSON output. Editor.js is designed to be easy to extend and customize, making it ideal for creating structured, content-centric editors. | JavaScript |
 | 7. | [**Draft.js**](https://draftjs.org/) | A React-based framework for building rich text editors. It offers an immutable model for content state and a declarative API to manage rich text input. | JavaScript |
 | 8. | [**Trix**](https://trix-editor.org/) | A rich text editor for everyday writing, integrating seamlessly with Rails and offering a simple, user-friendly interface for content creation. | JavaScript |
-| 9. | [**TOAST UI Editor**](https://ui.toast.com/tui-editor/) | A comprehensive Markdown editor that offers WYSIWYG editing and supports GFM Standard. It includes features like chart and UML support. | JavaScript |
-| 10. | [**Medium Editor**](https://yabwe.github.io/medium-editor/) | A clone of the Medium.com WYSIWYG editor, employing the contenteditable API to create a clean and intuitive editing experience. | JavaScript |
+| 9. | [**TOAST UI Editor**](https://ui.toast.com/tui-editor/) | A comprehensive Markdown editor that offers WYSIWYG editing and supports GFM Standard. It includes features like charts and UML support. | JavaScript |
+| 10. | [**Medium Editor**](https://yabwe.github.io/medium-editor/) | A clone of the Medium.com WYSIWYG editor, employing the content editable API to create a clean and intuitive editing experience. | JavaScript |
 | 11. | [**TinyMCE**](https://www.tiny.cloud/) | A well-known rich text editor with a wide array of plugins. TinyMCE is highly configurable and can be integrated with major frameworks like React, Vue, and Angular. | JavaScript |
 | 12. | [**Summernote**](https://summernote.org/) | A simple, yet powerful WYSIWYG editor that is easy to embed and customize in web projects. | JavaScript |
 | 13. | [**Jsoneditor**](https://jsoneditoronline.org/) | A user-friendly editor for JSON, offering a tree view to easily navigate, edit, and analyze JSON data. | JavaScript |
