@@ -8,6 +8,8 @@ Whether you're a developer, designer, or just curious about the latest tools for
 ## Why This Repository?
 Building modern web applications demands the right set of tools. With an abundance of JavaScript libraries available, finding the perfect ones for creating UI components can be overwhelming. That's where this repository comes in handy – a curated list of the best JavaScript libraries tailored for diverse UI components. 🚀🚀
 
+> **Give this repository a "⭐" so that we can keep improving this list.**
+
 
 ## Table of Contents
 [**UI Components**](https://github.com/themeselection/Awesome-JavaScript-Libraries#ui-components)
