@@ -446,3 +446,6 @@ Building modern web applications demands the right set of tools. With an abundan
 
 </div>
 
+---
+
+If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines]
