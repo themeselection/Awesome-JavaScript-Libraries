@@ -62,6 +62,13 @@ Building modern web applications demands the right set of tools. With an abundan
 | 7. | [**Notify.js**](https://github.com/jpillora/notifyjs) | Notify.js is a jQuery plugin to provide simple yet fully customizable notifications. | JavaScript |
 | 8. | [**Toastr**](https://github.com/CodeSeven/toastr) | toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended. | JavaScript |
 | 9. | [**Vue-toast-notification**](https://github.com/ankurk91/vue-toast-notification) | A Vue toast notification plugin for Vue.js. | Vue.js |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Buttons
 | No | Library and Component Name | Description | Available in which Language |
 |----|-----------------------------|--------------|-----------------------------|
@@ -88,6 +95,13 @@ Building modern web applications demands the right set of tools. With an abundan
 | 14. | [**React-ID-Swiper**](https://github.com/kidjp85/react-id-swiper) | React ID Swiper is a library to use Swiper as a React JS component that allows you its modules to custom build. | React.js |
 | 15. | [**React Slick**](https://themeselection.com/react-carousel-library/) | React-Slick is a carousel component for React applications for creating responsive and customizable carousels or sliders. | React.js |
 | 16. | [**React Swipeable**](https://github.com/FormidableLabs/react-swipeable) | An open-source project that offers a swipeable component for React applications. | React.js |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Dropdown
 | No | Library and Component Name | Descriptions | Available in which Language |
 |----|-----------------------------|--------------|-----------------------------|
@@ -106,6 +120,13 @@ Building modern web applications demands the right set of tools. With an abundan
 | 5. | [**Rmodal**](https://github.com/zewish/rmodal.js) | A simple 1.2 KB modal dialog with no dependencies. | JavaScript |
 | 6. | [**Vue-js-modal**](https://github.com/euvl/vue-js-modal) | Easy to use, highly customizable Vue.js modal library. | Vue.js |
 | 7. | [**Micromodal**](https://micromodal.vercel.app/) | Micromodal.js is a lightweight, configurable, and a11y-enabled modal library that you can easily add to your project with minimum configuration. | JavaScript |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Navbar
 | No | Library and Component Name | Descriptions | Available in which Language |
 |----|-----------------------------|--------------|-----------------------------|
@@ -117,6 +138,13 @@ Building modern web applications demands the right set of tools. With an abundan
 | 6. | [**SIDR**](https://github.com/artberri/sidr) | Sidr is a jQuery plugin for creating side menus and the easiest way to make your menu responsive. | JavaScript |
 | 7. | [**Responsive-nav.js**](https://github.com/arielsalminen/responsive-nav.js) | Responsive navigation plugin without library dependencies and with fast touchscreen support. | JavaScript |
 | 8. | [**PriorityNavigation.js**](https://github.com/gijsroge/priority-navigation) | PriorityNav is a lightweight accessible pure JavaScript plugin that will move your menu items if they don't fit their parent. | JavaScript |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Charts and Graphs
 | No | Library and Component Name | Descriptions | Available in which Language |
 |----|-----------------------------|--------------|-----------------------------|
@@ -138,6 +166,13 @@ Building modern web applications demands the right set of tools. With an abundan
 | 16. | [**react-chartjs-2**](https://github.com/jerairrest/react-chartjs-2) | React wrapper for Chart.js, a popular charting library. | React.js |
 | 17. | [**Nivo**](https://github.com/plouc/nivo) | Nivo provides supercharged React components to easily build dataviz apps, built on top of d3. | React |
 | 18. | [**vue-chartjs**](https://github.com/apertureless/vue-chartjs) | Vue.js wrapper for Chart.js, providing reactive charts. | Vue.js |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Formatting
 | No | Library and Component Name | Descriptions | Available in which Language |
 |----|-----------------------------|--------------|-----------------------------|
@@ -155,6 +190,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 4. | [**Laravel Vue Pagination**](https://github.com/gilbitron/laravel-vue-pagination) | Laravel Vue Pagination is a Vue.js pagination component for Laravel. It provides out-of-the-box components for Bootstrap 4/5 and Tailwind CSS. | Vue.js |
 | 5. | [**Ngx-Pagination**](https://github.com/michaelbromley/ngx-pagination) | The simplest solution for pagination in Angular. | Angular |
 | 6. | [**rc-pagination**](https://github.com/react-component/pagination) | An open-source React pagination component for your React web apps. | React.js |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
 
 ### Progress/ Spinners/ Loaders
 | No | Library and Component Name | Descriptions | Available in which Language |
@@ -177,6 +218,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 5. | [**Starry**](https://teddy95.github.io/Starry/index.html) | A JavaScript star rating system that offers various options Like stars, multi-rating capability, initial rating value, read-only mode, tooltips for stars, and custom icons. | JavaScript |
 | 6. | [**Raty**](https://github.com/wbotelhos/raty) | A Star Rating Plugin | JavaScript | 
 
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Breadcrumbs
 | No | Library and Component Name | Descriptions | Available in which Language |
 |----|-----------------------------|--------------|-----------------------------|
@@ -198,6 +245,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 10. | [**Chronoline.js**](https://github.com/StoicLoofah/chronoline.js) | Displays events in chronological or horizontal order, and supports various timeframes.                            | JavaScript                  |
 | 11. | [**Angular Timeline**](https://github.com/rpocklin/angular-timeline) | A responsive, data-driven vertical timeline library for Angular.                                               | JavaScript (Angular)        |
 
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Drag and Drop
 | No | Library and Component Name                                         | Descriptions                                                                                                                        | Available in which Language |
 |----|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -215,6 +268,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 12.| [**DragSelect**](https://github.com/ThibaultJanBeyer/DragSelect)    | A lightweight drag-and-drop library with no dependencies, supporting module exports and ES6 modules.                                | JavaScript                  |
 | 13.| [**DFlex**](https://github.com/jalal246/dflex)                      | Designed to add drag-and-drop interfaces in modern apps, built on Vanilla JavaScript with a transformation mechanism.              | JavaScript                  |
 
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Form Validation
 | No | Library and Component Name                                  | Descriptions                                                                                                     | Available in which Language |
 |----|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -231,6 +290,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 11.| [**bouncer.js**](https://github.com/cferdinandi/bouncer) | A lightweight library augmenting native HTML5 form validation, supports after-submit validation.                 | JavaScript                  |
 | 12.| [**React Hook Form**](https://github.com/react-hook-form/react-hook-form) | An open-source form validation library for form state management built with performance, UX, and DX in mind.     | JavaScript (React)          |
 | 13.| [**React Final Form**](https://github.com/final-form/react-final-form) | A flexible and efficient form validation library for React, focusing on performance and simplicity.              | JavaScript (React)          |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
 
 ### Date Pickers
 | No | Library and Component Name | Descriptions | Available in which Language |
@@ -250,6 +315,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 13. | [**Bootstrap-datepicker**](https://github.com/uxsolutions/bootstrap-datepicker) | An open-source Bootstrap Date picker with advanced features like keyboard navigation, autoclose, today highlight, google, and more. | Bootstrap |
 | 14. | [**Pikaday**](https://github.com/Pikaday/Pikaday) | A JavaScript datepicker with no dependencies. Lightweight, powerful, and customizable. | JavaScript |
 | 15. | [**Day.js**](https://github.com/iamkun/dayjs) | Fast 2kB alternative to Moment.js with the same modern API. | JavaScript |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
 
 ### 3D and Games
 | No | Library and Component Name | Descriptions | Available in which Language |
@@ -279,6 +350,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 23. | [**PlayCanvas**](https://playcanvas.com) | A game engine for building 2D and 3D games, known for its advanced graphics and support for WebGL. | JavaScript |
 | 24. | [**Cannon.js**](https://github.com/schteppe/cannon.js) | A lightweight 3D physics engine, providing rigid body dynamics, collision detection, and various physical simulations. | JavaScript |
 
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Calendar
 | No | Library and Component Name | Descriptions | Available in which Language |
 |----|----------------------------|--------------|-----------------------------|
@@ -292,6 +369,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 8. | [**DHTMLX-JavaScript Scheduler Event Calendar**](https://dhtmlx.com) | A JavaScript calendar library inspired by Google-like event calendars. Offers a timeline view, customizable content cells, and multi-section events. | JavaScript |
 | 9. | [**Color Calendar**](https://www.npmjs.com/package/color-calendar) | A customizable JavaScript Calendar library with multiple themes. Built on plain JavaScript, it supports multiple calendar views and customization using CSS variables. | JavaScript |
 | 10. | [**Calendar.js**](https://github.com/calendar-js/calendar) | A drag-and-drop event calendar built on JavaScript. It is compatible across all major browsers and offers full-color customization for events. | JavaScript |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
 
 ### Search 
 | No | Library and Component Name | Descriptions | Available in which Language |
@@ -307,6 +390,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 9. | [**FZF for JavaScript**](https://github.com/junegunn/fzf) | A port of the command line-based Fuzzy Search Library FZF, built using Golang, to JavaScript. Offers features like HighlightChars, Case sensitivity, and non-string list support. | JavaScript |
 | 10. | [**Bripkens**](https://github.com/bripkens/fuzzy.js) | A JavaScript library for approximate (fuzzy) string matching. It allows sub-term matches and character sequence highlighting before and after the text. | JavaScript |
 | 11. | [**FuzzBunny**](https://github.com/mattyork/fuzzy) | An open-source, fast, minified, and memory-efficient fuzzy string searching/matching/highlighting library. Works well in browser environments and Node.js, with a straightforward API for easy integration. | JavaScript |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
 
 ### Editors
 | No | Library and Component Name | Descriptions | Available in which Language |
@@ -330,6 +419,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 17. | [**wysihtml5**](https://github.com/tiff/wysihtml5) | An open-source rich text editor based on HTML5, offering advanced features and a flexible approach to content editing. | JavaScript |
 | 18. | [**ProseMirror**](https://prosemirror.net/) | A WYSIWYM (What You See Is What You Mean) editor that allows for rich, structured content editing. ProseMirror is versatile and ideal for collaborative editing. | JavaScript |
 
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
+
 ### Table
 | No | Library and Component Name | Descriptions | Available in which Language |
 |----|----------------------------|--------------|-----------------------------|
@@ -342,4 +437,10 @@ Building modern web applications demands the right set of tools. With an abundan
 | 7. | [**AG-Grid**](https://github.com/ag-grid/ag-grid) | The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript | JavaScript |
 | 8. | [**Clusterize.js**](https://github.com/NeXTs/Clusterize.js) | Tiny vanilla JS plugin to display large data sets easily | JavaScript |
 | 9. | [**Material Table**](https://github.com/mbrn/material-table) | Datatable for React based on material-ui's table with additional features. | JavaScript (React) |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
+
+</div>
 
