@@ -1,5 +1,5 @@
 # Awesome-JavaScript-Libraries
-Hello out there!🏃🏻‍♀🙋🏻‍♂️
+Hello out there!🙋🏻‍♂️
 
 Welcome to the go-to resource for discovering top-notch JavaScript libraries for UI components to help you create visually stunning web applications. 
 
