@@ -5,14 +5,13 @@ Welcome to the go-to resource for discovering top-notch Awesome JavaScript libra
 
 Whether you're a developer, designer, or simply curious about the latest tools for crafting seamless user interfaces, this repository can be a valuable resource.
 
-
+![200-awesome-javascript-libraries-for-ui-components-curated-list](https://github.com/themeselection/Awesome-JavaScript-Libraries/assets/105908323/88a91f2c-c6df-403b-99a6-bc2e331dcf8b)
 
 ## Why This Repository?
 Building modern web applications demands the right set of tools. With an abundance of JavaScript libraries available, finding the perfect ones for creating UI components can be overwhelming. That's where this repository comes in handy – a curated list of the best JavaScript libraries tailored for diverse UI components. 🚀🚀
 
 > **Give this repository a "⭐" to keep improving this list.**
 
-![200-awesome-javascript-libraries-for-ui-components-curated-list](https://github.com/themeselection/Awesome-JavaScript-Libraries/assets/105908323/88a91f2c-c6df-403b-99a6-bc2e331dcf8b)
 
 ## Table of Contents
 [**UI Components**](https://github.com/themeselection/Awesome-JavaScript-Libraries#ui-components)
