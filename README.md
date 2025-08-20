@@ -422,6 +422,7 @@ Building modern web applications demands the right set of tools. With an abundan
 | 16. | [**Bootstrap WYSIWYG**](https://mindmup.github.io/bootstrap-wysiwyg/) | A tiny bootstrap-compatible WYSIWYG rich text editor, designed for simplicity and integration with the Bootstrap framework. | JavaScript |
 | 17. | [**wysihtml5**](https://github.com/tiff/wysihtml5) | An open-source rich text editor based on HTML5, offering advanced features and a flexible approach to content editing. | JavaScript |
 | 18. | [**ProseMirror**](https://prosemirror.net/) | A WYSIWYM (What You See Is What You Mean) editor that allows for rich, structured content editing. ProseMirror is versatile and ideal for collaborative editing. | JavaScript |
+| 19. | [**DHTMLX Rich Text Editor**](https://dhtmlx.com/docs/products/dhtmlxRichText/) |  Customizable WYSIWYG editor with HTML and Markdown support, advanced formatting options, and simple integration with  Angular, React, Vue.js, and Svelte. | JavaScript |
 
 <div align="right">
 
