@@ -15,7 +15,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 ## Table of Contents
 [**UI Components**](https://github.com/themeselection/Awesome-JavaScript-Libraries#ui-components)
-  - [**Accordion / Collapse**](https://github.com/themeselection/Awesome-JavaScript-Libraries#badges--chips)
+  - [**Accordion / Collapse**](https://github.com/themeselection/Awesome-JavaScript-Libraries#accordion)
   - [**Badges / Chips**](https://github.com/themeselection/Awesome-JavaScript-Libraries#badges--chips)
   - [**Notification, Snackbar and Toast**](https://github.com/themeselection/Awesome-JavaScript-Libraries#notification-snackbar-and-toast)
   - [**Buttons**](https://github.com/themeselection/Awesome-JavaScript-Libraries#buttons)
@@ -24,23 +24,19 @@ Building modern web applications demands the right set of tools. With an abundan
   - [**Modals**](https://github.com/themeselection/Awesome-JavaScript-Libraries#modals)
   - [**Navbar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#navbar)
   - [**Charts and Graphs**](https://github.com/themeselection/Awesome-JavaScript-Libraries#charts-and-graphs)
-  - [**Cards**](https://github.com/themeselection/Awesome-JavaScript-Libraries#formatting)
+  - [**Formatting**](https://github.com/themeselection/Awesome-JavaScript-Libraries#formatting)
   - [**Pagination**](https://github.com/themeselection/Awesome-JavaScript-Libraries#pagination)
   - [**Progress**](https://github.com/themeselection/Awesome-JavaScript-Libraries#progress-spinners-loaders)
   - [**Rating**](https://github.com/themeselection/Awesome-JavaScript-Libraries#rating)
-  - [**Menus**](https://github.com/themeselection/Awesome-JavaScript-Libraries#breadcrumbs)
   - [**Breadcrumb Navigation**](https://github.com/themeselection/Awesome-JavaScript-Libraries#breadcrumbs)
-  - [**Snackbar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#timeline)
   - [**Timeline**](https://github.com/themeselection/Awesome-JavaScript-Libraries#timeline)
-  - [**Tooltip**](https://github.com/themeselection/Awesome-JavaScript-Libraries#drag-and-drop)
-  - [**Search**](https://github.com/themeselection/Awesome-JavaScript-Libraries#form-validation)
-  - [**Drag and Drop**](https://github.com/themeselection/Awesome-JavaScript-Libraries#date-pickers)
-  - [**Form Validation**](https://github.com/themeselection/Awesome-JavaScript-Libraries#3d-and-games)
-  - [**Date Pickers**](https://github.com/themeselection/Awesome-JavaScript-Libraries#calendar)
-  - [**3D and Games**](https://github.com/themeselection/Awesome-JavaScript-Libraries#search)
-  - [**Calendar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#editors)
-  - [**Search**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table)
-  - [**Editor**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table)
+  - [**Drag and Drop**](https://github.com/themeselection/Awesome-JavaScript-Libraries#drag-and-drop)
+  - [**Form Validation**](https://github.com/themeselection/Awesome-JavaScript-Libraries#form-validation)
+  - [**Date Pickers**](https://github.com/themeselection/Awesome-JavaScript-Libraries#date-pickers)
+  - [**3D and Games**](https://github.com/themeselection/Awesome-JavaScript-Libraries#3d-and-games)
+  - [**Calendar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#calendar)
+  - [**Search**](https://github.com/themeselection/Awesome-JavaScript-Libraries#search)
+  - [**Editor**](https://github.com/themeselection/Awesome-JavaScript-Libraries#editors)
   - [**Table**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table)
 
 
@@ -373,6 +369,7 @@ Building modern web applications demands the right set of tools. With an abundan
 | 8. | [**DHTMLX-JavaScript Scheduler Event Calendar**](https://dhtmlx.com) | A JavaScript calendar library inspired by Google-like event calendars. Offers a timeline view, customizable content cells, and multi-section events. | JavaScript |
 | 9. | [**Color Calendar**](https://www.npmjs.com/package/color-calendar) | A customizable JavaScript Calendar library with multiple themes. Built on plain JavaScript, it supports multiple calendar views and customization using CSS variables. | JavaScript |
 | 10. | [**Calendar.js**](https://github.com/calendar-js/calendar) | A drag-and-drop event calendar built on JavaScript. It is compatible across all major browsers and offers full-color customization for events. | JavaScript |
+| 11. | [**SVAR React Calendar**](https://github.com/svar-widgets/react-calendar) | A React calendar component with drag-and-drop event management, built-in editing, calendar groups, and multiple views. Svelte & Vue versions available. | JavaScript (React) |
 
 <div align="right">
 
@@ -441,6 +438,7 @@ Building modern web applications demands the right set of tools. With an abundan
 | 7. | [**AG-Grid**](https://github.com/ag-grid/ag-grid) | The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript | JavaScript |
 | 8. | [**Clusterize.js**](https://github.com/NeXTs/Clusterize.js) | Tiny vanilla JS plugin to display large data sets easily | JavaScript |
 | 9. | [**Material Table**](https://github.com/mbrn/material-table) | Datatable for React based on material-ui's table with additional features. | JavaScript (React) |
+| 10. | [**SVAR React DataGrid**](https://github.com/svar-widgets/react-grid) | A feature-rich React data table with sorting, filtering, editing, pagination, and virtualization. Svelte & Vue versions available. | JavaScript (React) |
 
 <div align="right">
 
